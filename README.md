@@ -9,6 +9,8 @@ Add config.py file to src/ with API Keys for Deutsche Bahn API (https://develope
 
 For access to lime bike API insert phone_no to config.py and follow steps in lime_access.py (three manual steps required).
 
+Other open data on bikes system can be accessed on https://github.com/Liyubov/tidytuesday/tree/master/data/2019/2019-04-02
+
 ## Data Analysis
 src/analysis
 
@@ -25,3 +27,5 @@ Jupyter Notebook to analyse data.
 - analysis.ipynb includes analysis about provider and bike specific data
 
 - pseudonomysed.ipynb includes analysis using the anonymized dataset (without information on providers.)
+
+In folder bike analysis trajectories we analyze bikes trajectories (work in progress).
