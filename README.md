@@ -29,3 +29,7 @@ Jupyter Notebook to analyse data.
 - pseudonomysed.ipynb includes analysis using the anonymized dataset (without information on providers.)
 
 In folder bike analysis trajectories we analyze bikes trajectories (work in progress).
+
+Jupyter Notebook data analysis 
+
+- analysis of trajectories is described in bikes_mobility_analysis_trajectories folder
