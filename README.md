@@ -33,3 +33,5 @@ In folder bike analysis trajectories we analyze bikes trajectories (work in prog
 Jupyter Notebook data analysis 
 
 - analysis of trajectories is described in bikes_mobility_analysis_trajectories folder
+
+The project on data analysis is updated on gitlab. Contact me if you want to hear the details.
