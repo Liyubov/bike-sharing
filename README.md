@@ -30,8 +30,8 @@ Jupyter Notebook to analyse data.
 
 In folder bike analysis trajectories we analyze bikes trajectories (work in progress).
 
-Jupyter Notebook data analysis 
+Additional Jupyter Notebook on data analysis:
 
 - analysis of trajectories is described in bikes_mobility_analysis_trajectories folder
 
-The project on data analysis is updated on gitlab. Contact me if you want to hear the details.
+The project on data analysis is updated on gitlab. Contact Liubov if you want to hear the details: liubov.tupikina (at) cri-paris.org
