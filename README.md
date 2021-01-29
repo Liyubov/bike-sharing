@@ -35,3 +35,8 @@ Additional Jupyter Notebook on data analysis:
 - analysis of trajectories is described in bikes_mobility_analysis_trajectories folder
 
 The project on data analysis is updated on gitlab. Contact Liubov if you want to hear the details: liubov.tupikina (at) cri-paris.org
+
+## Main research question 
+
+1. Where to more optimally place stations to allow more regular distribution of bicycles?
+2. How to design indicators of bicycle systems in order to monitor the bicycle sharing system on collective and individual level?
